@@ -1,2 +1,2 @@
 # Grupi.4
-######Duke u punuar! 
+Duke u punuar! 
