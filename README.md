@@ -7,5 +7,5 @@ Duke u punuar!
 alt="Shikone videon ton per tutorial" width="240" height="180" border="10" /></a>
 
 <p align="center">
-  <img src="assets/plot.svg" alt="Benchmark" width="600" style="background-color:#2e3136">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd270TY8CW2uAebfioOSfM0z78iy_rcN7xug&usqp=CAU" alt="Benchmark" width="600" style="background-color:#2e3136">
 </p>
