@@ -5,3 +5,7 @@ Duke u punuar!
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="Shikone videon ton per tutorial" width="240" height="180" border="10" /></a>
+
+<p align="center">
+  <img src="assets/plot.svg" alt="Benchmark" width="600" style="background-color:#2e3136">
+</p>
